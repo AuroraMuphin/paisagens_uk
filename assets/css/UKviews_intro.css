@@ -23,10 +23,6 @@ button {
   height: 50px;
 }
 
-.container {
-  position: absolute;
-}
-
 .brown{
   background-color:brown;
 }
