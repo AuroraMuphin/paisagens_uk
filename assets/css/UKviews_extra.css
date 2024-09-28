@@ -10,6 +10,10 @@ div img {
   margin-top: 50px;
 }
 
+h3 {
+  color: pink;
+}
+
 .center_font{
   text-align: center;
 }
